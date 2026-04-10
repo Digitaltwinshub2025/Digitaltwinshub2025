@@ -77,7 +77,7 @@ Using NASA's ECOSTRESS data to reveal where heat is most extreme. Communities an
 - Unreal Engine Digital Twins
 - AURA Engine Environmental Data Pipelines
 
-Select a neighborhood. Instantly see KPIs, maps, 3D shade simulations, heat exposure analyses, and design scenarios—all synchronized.
+Select a neighborhood. Instantly see KPIs, maps, 3D shade simulations, heat exposure analyses, and design scenarios, all synchronized.
 
 **Impact:** Shade placed with precision and equity. LA cooler, healthier, more resilient.
 
