@@ -41,7 +41,7 @@ A living digital ecosystem, a lush, connected green artery where nature, people,
 
 A biophilic sanctuary where ancient ecological wisdom meets immersive technology, a real-time sustainability lab for intergenerational stewards.
 
-**What we're building:** An interactive digital twin of the Pando Encino Ecological Retreat. Community members and designers virtually test plant palettes, layouts, paths, and materials—seeing how choices affect shade, habitat, water use, and beauty, before breaking ground.
+**What we're building:** An interactive digital twin of the Pando Encino Ecological Retreat. Community members and designers virtually test plant palettes, layouts, paths, and materials. Seeing how choices affect shade, habitat, water use, and beauty, before breaking ground.
 
 **Impact:** Reduced mistakes. Enhanced resilience. Climate-smart designs co-created with care.
 
@@ -51,7 +51,7 @@ A biophilic sanctuary where ancient ecological wisdom meets immersive technology
 ### 4. 🎨 **PUHC PUEDE Innovation Alleys**
 **Fellows:** Brenda, Michael Lee
 
-Alleys reborn as eco-cultural corridors—green spines of resilience that manage water, host pollinators, and tell stories.
+Alleys reborn as eco-cultural corridors, green spines of resilience that manage water, host pollinators, and tell stories.
 
 **What we're building:** An interactive co-design platform featuring:
 - **Scenario Testing:** Compare design ideas (plants, materials, shade structures)
@@ -95,7 +95,7 @@ Neglected land becomes a canvas for environmental and cultural regeneration. You
 - Professional collaboration tools
 - Community storytelling layers
 
-**Impact:** Not beautification—but planting a resilient civic imagination rooted in equity and healing.
+**Impact:** Not beautification, but planting a resilient civic imagination rooted in equity and healing.
 
 
 ---
