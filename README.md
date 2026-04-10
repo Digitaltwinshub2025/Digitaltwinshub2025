@@ -1,4 +1,4 @@
-,# 🌍 Digital Twins Hub
+# 🌍 Digital Twins Hub
 
 > *Where Future Cities Are Built Today*
 
