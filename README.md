@@ -1,4 +1,4 @@
-# 🌍 Digital Twins Hub
+,# 🌍 Digital Twins Hub
 
 > *Where Future Cities Are Built Today*
 
@@ -21,7 +21,6 @@ Imagine wildfire-prone communities not just rebuilt—but *reimagined* to be saf
 
 **Impact:** Trust, transparency, and predictive planning replace reactive recovery.
 
-📊 [Summer 2025 Deck](link) | 📊 [Fall 2025 & Spring 2026 Deck](link) | 📁 [Drive](link)
 
 ---
 
@@ -34,7 +33,6 @@ A living digital ecosystem—a lush, connected green artery where nature, people
 
 **Impact:** Shared digital space for exploring options, evaluating maintenance, and designing resilience together.
 
-🗺️ [Summer 2025 Deck](link) | 🗺️ [Fall 2025 & Spring 2026 Deck](link) | 📁 [Drive](link)
 
 ---
 
@@ -47,7 +45,6 @@ A biophilic sanctuary where ancient ecological wisdom meets immersive technology
 
 **Impact:** Reduced mistakes. Enhanced resilience. Climate-smart designs co-created with care.
 
-🎮 [Summer 2025 Deck](link) | 🎮 [Fall 2025 & Spring 2026 Deck](link) | 📁 [Drive](link)
 
 ---
 
@@ -66,7 +63,6 @@ Alleys reborn as eco-cultural corridors—green spines of resilience that manage
 
 **Impact:** Every alley becomes a scalable, shareable model of neighborhood transformation.
 
-🌈 [Summer 2025 Deck](link) | 🌈 [Fall 2025 & Spring 2026 Deck](link) | 🎬 [Final](link) | 📁 [Drive](link)
 
 ---
 
@@ -85,7 +81,6 @@ Select a neighborhood. Instantly see KPIs, maps, 3D shade simulations, heat expo
 
 **Impact:** Shade placed with precision and equity. LA cooler, healthier, more resilient.
 
-🌞 [Fall 2025 & Spring 2026 Deck](link) | 🎥 [Video 02](link) | 🎥 [Video 01](link) | 📁 [Drive](link)
 
 ---
 
@@ -102,7 +97,6 @@ Neglected land becomes a canvas for environmental and cultural regeneration. You
 
 **Impact:** Not beautification—but planting a resilient civic imagination rooted in equity and healing.
 
-🏞️ [Summer 2025 Deck](link) | 🏞️ [Fall 2025 & Spring 2026 Deck](link) | 📁 [Drive](link)
 
 ---
 
