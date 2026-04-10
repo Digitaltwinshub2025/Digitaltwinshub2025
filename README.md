@@ -166,4 +166,4 @@ Open source. MIT License. [See LICENSE](LICENSE)
 
 **Built with 💚 to heal landscapes and imagine resilient futures.**
 
-*The future isn't something that happens to us—it's something we build together.*
+*The future isn't something that happens to us, it's something we build together.*
