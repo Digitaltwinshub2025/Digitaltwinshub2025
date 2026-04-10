@@ -1,4 +1,4 @@
-# 🌍 Digital Twins Hub
+# 🌍 Digital Twins
 
 > *Where Future Cities Are Built Today*
 
@@ -6,7 +6,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/Digitaltwinshub2025/Digital-Twins-Hub)](https://github.com/Digitaltwinshub2025/Digital-Twins-Hub/issues)
 [![GitHub stars](https://img.shields.io/github/stars/Digitaltwinshub2025/Digital-Twins-Hub)](https://github.com/Digitaltwinshub2025/Digital-Twins-Hub/stargazers)
 
-Welcome to **Digital Twins Hub**, a visionary platform transforming how communities imagine, test, and build their future. Through AURA digital twins, real-time environmental data, and immersive XR experiences, we're empowering people to co-create resilient, regenerative urban ecosystems that heal landscapes and honor local stories.
+Welcome to **Digital Twins**, a visionary platform transforming how communities imagine, test, and build their future. Through AURA digital twins, real-time environmental data, and immersive XR experiences, we're empowering people to co-create resilient, regenerative urban ecosystems that heal landscapes and honor local stories.
 
 ---
 
