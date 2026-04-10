@@ -6,7 +6,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/Digitaltwinshub2025/Digital-Twins-Hub)](https://github.com/Digitaltwinshub2025/Digital-Twins-Hub/issues)
 [![GitHub stars](https://img.shields.io/github/stars/Digitaltwinshub2025/Digital-Twins-Hub)](https://github.com/Digitaltwinshub2025/Digital-Twins-Hub/stargazers)
 
-Welcome to **Digital Twins Hub**—a visionary platform transforming how communities imagine, test, and build their future. Through AURA digital twins, real-time environmental data, and immersive XR experiences, we're empowering people to co-create resilient, regenerative urban ecosystems that heal landscapes and honor local stories.
+Welcome to **Digital Twins Hub**, a visionary platform transforming how communities imagine, test, and build their future. Through AURA digital twins, real-time environmental data, and immersive XR experiences, we're empowering people to co-create resilient, regenerative urban ecosystems that heal landscapes and honor local stories.
 
 ---
 
@@ -15,9 +15,9 @@ Welcome to **Digital Twins Hub**—a visionary platform transforming how communi
 ### 1. 🔥 **USGBC CA California Wildfire Rebuilding Guide**
 **Fellows:** Monique, Mario, Maria, Yiceth
 
-Imagine wildfire-prone communities not just rebuilt—but *reimagined* to be safer, smarter, and thriving despite climate risks. 
+Imagine wildfire-prone communities not just rebuilt, but *reimagined* to be safer, smarter, and thriving despite climate risks. 
 
-**What we're building:** An interactive platform where communities generate Fire Analysis Reports for new buildings following USGC CA Guidelines. Residents explore resilient home designs, review sustainability scores, assess fire risk, and browse inspiring ADU and tiny house options—all in one place.
+**What we're building:** An interactive platform where communities generate Fire Analysis Reports for new buildings following USGC CA Guidelines. Residents explore resilient home designs, review sustainability scores, assess fire risk, and browse inspiring ADU and tiny house options, all in one place.
 
 **Impact:** Trust, transparency, and predictive planning replace reactive recovery.
 
@@ -27,7 +27,7 @@ Imagine wildfire-prone communities not just rebuilt—but *reimagined* to be saf
 ### 2. 🌿 **Baldwin Hills Conservancy: Connecting Communities Mile Resilient Corridor**
 **Fellows:** Myisha, Omid
 
-A living digital ecosystem—a lush, connected green artery where nature, people, and data converge.
+A living digital ecosystem, a lush, connected green artery where nature, people, and data converge.
 
 **What we're building:** A spatial data repository mapping the entire corridor, letting communities test landscape interventions before they're built. Compare plant palettes, materials, and designs. Track environmental impacts. Watch how choices perform over time.
 
@@ -39,9 +39,9 @@ A living digital ecosystem—a lush, connected green artery where nature, people
 ### 3. 🌲 **Pando Accelerator at Encino**
 **Fellows:** Misrrain, Alicia, Vova, Eddie
 
-A biophilic sanctuary where ancient ecological wisdom meets immersive technology—a real-time sustainability lab for intergenerational stewards.
+A biophilic sanctuary where ancient ecological wisdom meets immersive technology, a real-time sustainability lab for intergenerational stewards.
 
-**What we're building:** An interactive digital twin of the Pando Encino Ecological Retreat. Community members and designers virtually test plant palettes, layouts, paths, and materials—seeing how choices affect shade, habitat, water use, and beauty—before breaking ground.
+**What we're building:** An interactive digital twin of the Pando Encino Ecological Retreat. Community members and designers virtually test plant palettes, layouts, paths, and materials—seeing how choices affect shade, habitat, water use, and beauty, before breaking ground.
 
 **Impact:** Reduced mistakes. Enhanced resilience. Climate-smart designs co-created with care.
 
